@@ -11,7 +11,6 @@ I love curiosity and learning :)
 # Technologies
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f5bd0c)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078d4)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=3ddc84)
 ![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=php&logoColor=white&color=777bb3)
 ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e)
