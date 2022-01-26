@@ -6,11 +6,13 @@ I love curiosity and learning :)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@AlirezaIvaz-informational?style=social&logo=telegram)](https://t.me/AlirezaIvaz)
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-+989057351604-informational?style=social&logo=whatsapp)](https://wa.me/989057351604)
+[![Instagram](https://img.shields.io/badge/Instagram-@alireza_ivaz-informational?style=social&logo=instagram)](https://instagram.com/alireza_ivaz)
+
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-+989057351603-informational?style=social&logo=whatsapp)](https://wa.me/989057351603)
 
 # Technologies
 
-![](https://img.shields.io/badge/OS-CutefishOS-informational?style=flat&logo=debian&logoColor=white&color=f5bd0c)
+![](https://img.shields.io/badge/OS-ZorinOS-informational?style=flat&logo=zorin&logoColor=white&color=f5bd0c)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=3ddc84)
 ![](https://img.shields.io/badge/Lang-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=7f52ff)
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=F8981D)
