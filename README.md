@@ -1,29 +1,22 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Alireza Ivaz](https://github.com/AlirezaIvaz)
 
-I love curiosity and learning :)
+I consider myself a hard-working and curious developer, I started my career as a web developer in 2017 and working as an Android developer from 2018. I'm currently learning the Flutter framework and have worked on the following topics over the years:
+
+## Languages
+![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=29b6f6)
+![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=7f52ff)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=f8981d)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=777bb3)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e)
+
+## Freamwork
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=1fbcfd)
+![](https://img.shields.io/badge/VueJS-informational?style=flat&logo=vuejs&logoColor=white&color=41b883)
+![](https://img.shields.io/badge/Materialize-informational?style=flat&logo=material-design&logoColor=white&color=eb7077)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=9013fe)
 
 # Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-@AlirezaIvaz-informational?style=social&logo=telegram)](https://t.me/AlirezaIvaz)
-
-[![Instagram](https://img.shields.io/badge/Instagram-@alireza_ivaz-informational?style=social&logo=instagram)](https://instagram.com/alireza_ivaz)
-
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-+989057351603-informational?style=social&logo=whatsapp)](https://wa.me/989057351603)
-
-# Technologies
-
-![](https://img.shields.io/badge/OS-ZorinOS-informational?style=flat&logo=zorin&logoColor=white&color=f5bd0c)
-![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=3ddc84)
-![](https://img.shields.io/badge/Lang-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=7f52ff)
-![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=F8981D)
-![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=php&logoColor=white&color=777bb3)
-![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e)
-![](https://img.shields.io/badge/Library-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=0868ac)
-![](https://img.shields.io/badge/CMS-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=00749A)
-![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android&logoColor=white&color=073042)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0065A9)
-![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=ea6100)
-![](https://img.shields.io/badge/Browser-Edge-informational?style=flat&logo=microsoft-edge&logoColor=white&color=1b9de2)
+[![Email](https://img.shields.io/badge/Email-info@alirezaivaz.ir-informational?style=social&logo=gmail)](mailto:info@alirezaivaz.ir)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-@AlirezaIvaz-informational?style=social&logo=telegram)](https://t.me/AlirezaIvaz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-@alireza_ivaz-informational?style=social&logo=instagram)](https://instagram.com/alireza_ivaz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Whatsapp](https://img.shields.io/badge/WhatsApp-+989057351603-informational?style=social&logo=whatsapp)](https://wa.me/989057351603)
 
 # Status
 
