@@ -16,7 +16,7 @@ I consider myself a hard-working and curious developer, I started my career as a
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=9013fe)
 
 # Contact
-[![Email](https://img.shields.io/badge/Email-info@alirezaivaz.ir-informational?style=social&logo=gmail)](mailto:info@alirezaivaz.ir)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-@AlirezaIvaz-informational?style=social&logo=telegram)](https://t.me/AlirezaIvaz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-@alireza_ivaz-informational?style=social&logo=instagram)](https://instagram.com/alireza_ivaz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Whatsapp](https://img.shields.io/badge/WhatsApp-+989057351603-informational?style=social&logo=whatsapp)](https://wa.me/989057351603)
+[![Email](https://img.shields.io/badge/Email-info@alirezaivaz.ir-informational?style=social&logo=gmail)](mailto:info@alirezaivaz.ir)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-@AlirezaIvaz-informational?style=social&logo=telegram)](https://t.me/AlirezaIvaz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-@alirezaivaz_ir-informational?style=social&logo=instagram)](https://instagram.com/alirezaivaz_ir)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Whatsapp](https://img.shields.io/badge/WhatsApp-+989057351603-informational?style=social&logo=whatsapp)](https://wa.me/989057351603)
 
 # Status
 
